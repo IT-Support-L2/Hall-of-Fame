@@ -1,6 +1,6 @@
 # Hall-of-Fame
 
-Make a directory for each preferred vidoes such as Rap, Movies, ect. you name it. 😜 
+Make a directory for each preferred videos library such as Rap, Movies, ect. you name it. 😜 
 
 Hall of Fame Django App coded with:
 
