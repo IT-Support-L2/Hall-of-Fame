@@ -1,4 +1,4 @@
-# Hall-of-Fame
+# Hall-of-Fame Video Sharing Django App
 
 Make a directory for each preferred videos library such as Rap, Movies, ect. you name it. 😜 
 
