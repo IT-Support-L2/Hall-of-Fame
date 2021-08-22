@@ -13,7 +13,7 @@ Hall of Fame Django App coded with:
 - Sqlite3 as standard use, feel free to use powerful DB such PostgreSQL
 
 
-Special thanks to `Nick Wlater`, www.zappycode.com
+Special thanks to `Nick Walter`, www.zappycode.com
 
 
 
